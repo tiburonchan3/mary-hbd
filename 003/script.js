@@ -16,7 +16,7 @@ function openSlide() {
     slide1.classList.add("slide-open");
     slide2.classList.add("slide-open");
     globes.classList.add("globes-open");
-    // happy.play();
+    happy.play();
   }
 }
 
